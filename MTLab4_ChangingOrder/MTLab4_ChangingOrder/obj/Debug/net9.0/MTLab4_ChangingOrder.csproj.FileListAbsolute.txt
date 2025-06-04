@@ -1,0 +1,15 @@
+C:\Users\shafi\OneDrive\Рабочий стол\MT\MTLab4_ChangingOrder\MTLab4_ChangingOrder\obj\Debug\net9.0\MTLab4_ChangingOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafi\OneDrive\Рабочий стол\MT\MTLab4_ChangingOrder\MTLab4_ChangingOrder\obj\Debug\net9.0\MTLab4_ChangingOrder.AssemblyInfoInputs.cache
+C:\Users\shafi\OneDrive\Рабочий стол\MT\MTLab4_ChangingOrder\MTLab4_ChangingOrder\obj\Debug\net9.0\MTLab4_ChangingOrder.AssemblyInfo.cs
+C:\Users\shafi\OneDrive\Рабочий стол\MT\MTLab4_ChangingOrder\MTLab4_ChangingOrder\obj\Debug\net9.0\MTLab4_ChangingOrder.csproj.CoreCompileInputs.cache
+C:\Users\shafi\OneDrive\Рабочий стол\MT\MTLab4_ChangingOrder\MTLab4_ChangingOrder\obj\Debug\net9.0\MTLab4_ChangingOrder.sourcelink.json
+C:\Users\shafi\OneDrive\Рабочий стол\MT\MTLab4_ChangingOrder\MTLab4_ChangingOrder\bin\Debug\net9.0\MTLab4_ChangingOrder.exe
+C:\Users\shafi\OneDrive\Рабочий стол\MT\MTLab4_ChangingOrder\MTLab4_ChangingOrder\bin\Debug\net9.0\MTLab4_ChangingOrder.deps.json
+C:\Users\shafi\OneDrive\Рабочий стол\MT\MTLab4_ChangingOrder\MTLab4_ChangingOrder\bin\Debug\net9.0\MTLab4_ChangingOrder.runtimeconfig.json
+C:\Users\shafi\OneDrive\Рабочий стол\MT\MTLab4_ChangingOrder\MTLab4_ChangingOrder\bin\Debug\net9.0\MTLab4_ChangingOrder.dll
+C:\Users\shafi\OneDrive\Рабочий стол\MT\MTLab4_ChangingOrder\MTLab4_ChangingOrder\bin\Debug\net9.0\MTLab4_ChangingOrder.pdb
+C:\Users\shafi\OneDrive\Рабочий стол\MT\MTLab4_ChangingOrder\MTLab4_ChangingOrder\obj\Debug\net9.0\MTLab4_ChangingOrder.dll
+C:\Users\shafi\OneDrive\Рабочий стол\MT\MTLab4_ChangingOrder\MTLab4_ChangingOrder\obj\Debug\net9.0\refint\MTLab4_ChangingOrder.dll
+C:\Users\shafi\OneDrive\Рабочий стол\MT\MTLab4_ChangingOrder\MTLab4_ChangingOrder\obj\Debug\net9.0\MTLab4_ChangingOrder.pdb
+C:\Users\shafi\OneDrive\Рабочий стол\MT\MTLab4_ChangingOrder\MTLab4_ChangingOrder\obj\Debug\net9.0\MTLab4_ChangingOrder.genruntimeconfig.cache
+C:\Users\shafi\OneDrive\Рабочий стол\MT\MTLab4_ChangingOrder\MTLab4_ChangingOrder\obj\Debug\net9.0\ref\MTLab4_ChangingOrder.dll

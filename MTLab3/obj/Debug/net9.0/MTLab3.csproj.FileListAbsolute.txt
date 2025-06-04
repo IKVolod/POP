@@ -1,0 +1,14 @@
+C:\Users\shafi\Downloads\MT-main\MT-main\MTLab3\bin\Debug\net9.0\MTLab3.exe
+C:\Users\shafi\Downloads\MT-main\MT-main\MTLab3\bin\Debug\net9.0\MTLab3.deps.json
+C:\Users\shafi\Downloads\MT-main\MT-main\MTLab3\bin\Debug\net9.0\MTLab3.runtimeconfig.json
+C:\Users\shafi\Downloads\MT-main\MT-main\MTLab3\bin\Debug\net9.0\MTLab3.dll
+C:\Users\shafi\Downloads\MT-main\MT-main\MTLab3\bin\Debug\net9.0\MTLab3.pdb
+C:\Users\shafi\Downloads\MT-main\MT-main\MTLab3\obj\Debug\net9.0\MTLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafi\Downloads\MT-main\MT-main\MTLab3\obj\Debug\net9.0\MTLab3.AssemblyInfoInputs.cache
+C:\Users\shafi\Downloads\MT-main\MT-main\MTLab3\obj\Debug\net9.0\MTLab3.AssemblyInfo.cs
+C:\Users\shafi\Downloads\MT-main\MT-main\MTLab3\obj\Debug\net9.0\MTLab3.csproj.CoreCompileInputs.cache
+C:\Users\shafi\Downloads\MT-main\MT-main\MTLab3\obj\Debug\net9.0\MTLab3.dll
+C:\Users\shafi\Downloads\MT-main\MT-main\MTLab3\obj\Debug\net9.0\refint\MTLab3.dll
+C:\Users\shafi\Downloads\MT-main\MT-main\MTLab3\obj\Debug\net9.0\MTLab3.pdb
+C:\Users\shafi\Downloads\MT-main\MT-main\MTLab3\obj\Debug\net9.0\MTLab3.genruntimeconfig.cache
+C:\Users\shafi\Downloads\MT-main\MT-main\MTLab3\obj\Debug\net9.0\ref\MTLab3.dll

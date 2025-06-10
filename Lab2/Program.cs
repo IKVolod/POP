@@ -19,7 +19,7 @@ for (var t = 0; t < threadCount; t++)
 	var start = threadIndex * rangeSize;
 	var end = threadIndex == threadCount - 1 ? size : start + rangeSize;
 
-	threads[t] = new Thread(() =>
+    threads[t] = new Thread(() =>
 	{
 		var localMin = int.MaxValue;
 		var localMinIndex = -1;
@@ -50,10 +50,7 @@ for (var t = 0; t < threadCount; t++)
 
 lock (lockObj)
 {
-	while (completedThreads < threadCount)
-	{
-		Monitor.Wait(lockObj);
-	}
+    Monitor.Wait(lockObj);
 }
 
 var globalMin = int.MaxValue;

@@ -1,0 +1,15 @@
+W:\GitHub Projects\POP\Lab2\bin\Debug\net8.0\Lab2.exe
+W:\GitHub Projects\POP\Lab2\bin\Debug\net8.0\Lab2.deps.json
+W:\GitHub Projects\POP\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+W:\GitHub Projects\POP\Lab2\bin\Debug\net8.0\Lab2.dll
+W:\GitHub Projects\POP\Lab2\bin\Debug\net8.0\Lab2.pdb
+W:\GitHub Projects\POP\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+W:\GitHub Projects\POP\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+W:\GitHub Projects\POP\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+W:\GitHub Projects\POP\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+W:\GitHub Projects\POP\Lab2\obj\Debug\net8.0\Lab2.sourcelink.json
+W:\GitHub Projects\POP\Lab2\obj\Debug\net8.0\Lab2.dll
+W:\GitHub Projects\POP\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+W:\GitHub Projects\POP\Lab2\obj\Debug\net8.0\Lab2.pdb
+W:\GitHub Projects\POP\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+W:\GitHub Projects\POP\Lab2\obj\Debug\net8.0\ref\Lab2.dll

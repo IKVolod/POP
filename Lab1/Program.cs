@@ -1,4 +1,4 @@
-﻿using MTLab1;
+﻿using Lab1;
 
 var threadList = CreateThreadList(5);
 

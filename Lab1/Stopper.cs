@@ -1,4 +1,4 @@
-namespace MTLab1;
+namespace Lab1;
 
 public class Stopper(List<MyThread> threads)
 {

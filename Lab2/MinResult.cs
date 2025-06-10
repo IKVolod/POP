@@ -1,4 +1,4 @@
-namespace MTLab2;
+namespace Lab2;
 
 public struct MinResult
 {

@@ -1,4 +1,4 @@
-﻿using MTLab2;
+﻿using Lab2;
 
 object lockObj = new();
 var completedThreads = 0;

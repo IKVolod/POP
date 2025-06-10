@@ -76,7 +76,17 @@ List<int> Distribute(int total, int count)
 	var extra = total % count;
 
 	for (var i = 0; i < count; i++)
-		result.Add(baseAmount + (i < extra ? 1 : 0));
+	{
+		if (i < extra)
+		{
+            result.Add(baseAmount + 1); 
+		}
+		else
+		{
+            result.Add(baseAmount);
+        }
+    }
+
 
 	return result;
 }

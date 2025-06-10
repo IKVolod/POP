@@ -13,23 +13,15 @@ public class SequenceThread extends Thread {
         this.step = step;
     }
 
-    /*public void allowStop() {
+    public void allowStop() {
         this.canStop = true;
-    }*/
-
-    public synchronized void allowStop() {
-        this.canStop = true;
-    }
-
-    private synchronized boolean getStop() {
-        return canStop;
     }
 
     @Override //`coz i can
     public void run() {
         int current = 0;
 
-        while (!getStop()) {
+        while (!canStop) {
             sum += current;
             current += step;
             count++;
